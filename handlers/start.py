@@ -19,7 +19,7 @@ async def start(_, message: Message):
 🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [Ikyy](https://t.me/boyfriendnice)
 ☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/remaja_virtual62)
 ━━━━━━━━━━━━━━
-𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @officialheartbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : AsisstantOneHeart
+𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @officialheartbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantOneHeart
 
 </b>""",
         reply_markup=InlineKeyboardMarkup(
