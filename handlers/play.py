@@ -512,7 +512,7 @@ async def play(_, message: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "✨ Owner Aku!", url="https://t.me/afterdaytoxic"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -648,7 +648,7 @@ async def deezer(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "✨ Owner Aku!", url="https://t.me/afterdaytoxic"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
@@ -784,7 +784,7 @@ async def jiosaavn(client: Client, message_: Message):
                 ],                     
                 [
                     InlineKeyboardButton(
-                        "✨ Owner Aku!", url="https://t.me/afterdaytoxic"
+                        "Owner", url="https://t.me/boyfriendnice"
                     )
                 ],
                 [       
