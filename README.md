@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="./etc/logo_readme.jpg" alt="Crystal Music Logo">
+  <img src="./etc/logo_readme.jpg" alt="One-Heart Logo">
 
-<h2 align="centre">🎵 CRYSTAL HEART MUSIC!</h1>
+<h2 align="centre">🎵 ONE-HEART MUSIC!</h1>
 
 ### Aku Pemutar Musik Di-Telegram, Aku Akan Menemani Ke-Galauan Di VOICE CHAT GRUP!
 
@@ -44,11 +44,11 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anehajahlu/crystalmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ikyy35/musicHeart)
 
 ### GRUP DAN CHANNEL AKU! :
 
-Gabung Ke Grup & Channel Aku! [Grup Aku!](https://t.me/humangabutguys) Channel Grup! [Channel Aku!](https://t.me/captionanakmuda)
+Gabung Ke Grup & Channel Aku! [Grup Aku!](https://t.me/remaja_virtual62) Channel Grup! [Channel Aku!](https://t.me/chvirtual62)
 
 ### Credits
 - [Afterday](https://github.com/anehajahlu)
