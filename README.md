@@ -1,5 +1,4 @@
-<h1 align="center">
-  <img src="./etc/logo_readme.jpg" alt="One-Heart Logo">
+
 
 <h2 align="centre">🎵 ONE-HEART MUSIC!</h1>
 
