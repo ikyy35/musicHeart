@@ -26,7 +26,7 @@ async def start(_, message: Message):
             [ 
                 [
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/boyfriendnice")
+                        "🦇Owner", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
                         "👥Official Group", url="https://t.me/remaja_virtual62"
@@ -35,7 +35,7 @@ async def start(_, message: Message):
                         "📢Official Channel", url="https://t.me/MusikManagement") 
                   ],[
                     InlineKeyboardButton(
-                        "🍀 Instagram", url="https://www.instagram.com/ikyyy_35/"
+                        "🍀Instagram", url="https://www.instagram.com/ikyyy_35/"
                     )
                 ]
             ]
