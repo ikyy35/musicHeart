@@ -29,13 +29,13 @@ async def start(_, message: Message):
                         "Owner", url="https://t.me/boyfriendnice")
                   ],[
                     InlineKeyboardButton(
-                        "Channel", url="https://t.me/chvirtual62"
+                        "👥Official Group", url="https://t.me/remaja_virtual62"
                     ),
                     InlineKeyboardButton(
-                        "Group", url="https://t.me/remaja_virtual62") 
+                        "📢Official Channel", url="https://t.me/MusikManagement") 
                   ],[
                     InlineKeyboardButton(
-                        "My Bot Help", url="https://t.me/Asisstant_groupbot"
+                        "🍀 Instagram", url="https://www.instagram.com/ikyyy_35/"
                     )
                 ]
             ]
@@ -50,7 +50,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Owner", url="https://t.me/boyfriendnice"
+                        "🦇Owner", url="https://t.me/boyfriendnice"
                     )
                 ],[
                     InlineKeyboardButton(
