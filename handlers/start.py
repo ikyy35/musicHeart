@@ -6,7 +6,7 @@ from config import BOT_NAME as bn
 @Client.on_message(filters.command("start") & filters.private & ~filters.channel)
 async def start(_, message: Message):
     await message.reply_text(
-        f"""<b>Haii.. 👋🏻 {message.from_user.first_name} Welcome to 𓊈GE music𓊉\n
+        f"""<b>Haii.. 👋🏻 {message.from_user.first_name} Welcome to 𓊈Virtual Music𓊉\n
 𝘈𝘒𝘜 𝘈𝘋𝘈𝘓𝘈𝘏 𝘉𝘖𝘛 𝘔𝘜𝘚𝘐𝘒 𝘛𝘌𝘓𝘌𝘎𝘙𝘈𝘔 𝘠𝘈𝘕𝘎 𝘋𝘐 𝘒𝘌𝘔𝘉𝘈𝘕𝘎𝘒𝘈𝘕 𝘖𝘓𝘌𝘏 : [KING](https://t.me/boyfriendnice)
 
 𝘈𝘗𝘈𝘉𝘐𝘓𝘈 𝘐𝘕𝘎𝘐𝘕 𝘔𝘌𝘕𝘎𝘎𝘜𝘕𝘈𝘒𝘈𝘕 𝘈𝘒𝘜 𝘐𝘕𝘝𝘐𝘛𝘌 𝘈𝘒𝘜 𝘋𝘈𝘕 𝘈𝘚𝘐𝘚𝘚𝘛𝘈𝘕𝘛 𝘕𝘠𝘈 𝘓𝘈𝘓𝘜 𝘑𝘈𝘋𝘐𝘒𝘈𝘕 𝘈𝘋𝘔𝘐𝘕 𝘒𝘌𝘋𝘜𝘈𝘕𝘠𝘈 𝘈𝘎𝘈𝘙 𝘉𝘐𝘚𝘈 𝘉𝘌𝘙𝘑𝘈𝘓𝘈𝘕 𝘋𝘌𝘕𝘎𝘈𝘕 𝘓𝘈𝘕𝘊𝘈𝘙, 𝘑𝘐𝘒𝘈 𝘈𝘋𝘈 𝘒𝘌𝘕𝘋𝘈𝘓𝘈 𝘉𝘐𝘚𝘈 𝘊𝘏𝘈𝘛 𝘖𝘞𝘕𝘌𝘙𝘕𝘠𝘈.
@@ -16,10 +16,10 @@ async def start(_, message: Message):
 ┣ > 𝙻𝙰𝙽𝙶𝚂𝚄𝙽𝙶 𝙿𝙻𝙰𝚈 𝙻𝙰𝙶𝚄 𝚃𝚄𝙽𝙶𝙶𝚄 𝚂𝙴𝙱𝙴𝙽𝚃𝙰𝚁
 ┣ > 𝙹𝙸𝙺𝙰 𝚃𝙸𝙳𝙰𝙺, 𝙰𝚂𝙸𝚂𝚃𝙴𝙽 𝚃𝙸𝙳𝙰𝙺 𝙰𝙺𝙰𝙽 𝙽𝙰𝙸𝙺.
 ┗━━━━━━━━━━━━━━
-🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [GEE](https://t.me/imssysbd)
+🤵𝓒𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 : [KING](https://t.me/boyfriendnice)
 ☘️𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 : [Grup Support](https://t.me/kawan_virtuals)
 ━━━━━━━━━━━━━━
-𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @musicsongbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @asistenmusicku
+𝐁𝐎𝐓 𝐌𝐔𝐒𝐈𝐊 : @virtualsongbot - 𝐀𝐒𝐈𝐒𝐒𝐓𝐀𝐍𝐓 𝐌𝐔𝐒𝐈𝐊 : @AsisstantMusicVirtual
 
 </b>""",
         reply_markup=InlineKeyboardMarkup(
@@ -29,7 +29,7 @@ async def start(_, message: Message):
                         "🦇Owner", url="https://t.me/imssysbd")
                   ],[
                     InlineKeyboardButton(
-                        "👥Official Group", url="https://t.me/kawan_virtuals"
+                        "👥Official Group", url="https://t.me/Familythunder"
                     ),
                     InlineKeyboardButton(
                         "📢Official Channel", url="https://t.me/MusikManagement") 
@@ -50,7 +50,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🦇Owner", url="https://t.me/imssysbd"
+                        "🦇Owner", url="https://t.me/boyfriendnice"
                     )
                 ],[
                     InlineKeyboardButton(
